@@ -2,7 +2,7 @@
 	"name": "edwardkarlsson/laravel-linguini",
 	"description": "Multi Language CMS addon for Laravel",
 	"type": "library",
-	"keywords": ["laravel", "multi-language", "content"],,
+	"keywords": ["laravel", "multi-language", "content"],
 	"license": "MIT",
 	"authors": [
 		{
